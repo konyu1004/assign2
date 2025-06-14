@@ -3,7 +3,7 @@
 ## 개요  
 **서비스 명** : n행시 생성기  
 **서비스 설명** : 사용자가 입력한 단어의 각 글자를 첫 글자로 하여 n행시를 생성해주는 인공지능 서비스입니다.  
-**서비스 접속 주소** : https://konyu1004.github.io/assign2-nhaengsi  
+**서비스 접속 주소** : https://konyu1004.github.io/assign2
 
 ---
 
