@@ -26,6 +26,6 @@ n행시 생성에 필요한 문장을 구글의 LLM 모델 Gemini API를 활용�
 - Google Gemini API 호출을 위한 API 키 보안 처리  
 - 프론트엔드 요청을 받아 Gemini API에 프롬프트를 전달하고 결과를 반환하는 간단한 서버리스 함수 형태로 구성  
 - Vercel 플랫폼에 배포하여 서버리스 환경에서 운영  
-- 백엔드 소스코드 및 구현 상세는 [GitHub 저장소 링크](https://github.com/konyu1004/assign2-api) 참고  
+- 백엔드 소스코드 및 구현 상세는 https://github.com/konyu1004/assign2-api 참고  
 
 ---
